@@ -1,0 +1,25 @@
+{
+  "name": "order-summary-component-main",
+  "version": "1.0.0",
+  "description": "frontend mentor challenge order-summary-component",
+  "main": "index.html",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  },
+  "scripts": {
+    "dev": "tailwindcss -i ./public/css/styles.css  -o ./public/css/tailwind.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallensJ/order-summary-component.git"
+  },
+  "author": "callens johan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallensJ/order-summary-component/issues"
+  },
+  "homepage": "https://github.com/CallensJ/order-summary-component#readme"
+}
